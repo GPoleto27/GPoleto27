@@ -9,7 +9,6 @@ I'm Guilherme Poleto, 21 yo, Toledo, PR, Brazil
   - 2pR1rJ (2018)
   - Dedo no C++ && gritaria (2019)
   - Antes tarde do que TLE (2020)
-- 🧠 Mostly self-taught
 - 🔭 I’m currently working at Encurso as Web Development intern
 - 🌱 I’m currently learning Node.js, Express.js, Computer Vision and Machine Learning
 - 👯 I’m looking to collaborate on IoT, Robotics and ML projects
