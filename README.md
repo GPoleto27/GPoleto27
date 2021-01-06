@@ -9,7 +9,7 @@ I'm Guilherme Poleto, 21 yo, Toledo, PR, Brazil
   - 2pR1rJ (2018)
   - Dedo no C++ && gritaria (2019)
   - Antes tarde do que TLE (2020)
-- 🔭 I’m currently working at DOD as Computer Vision Engineer and Encurso as Web Development Intern
+- 🔭 I’m currently working at [Dod Vision](dodvision.com/) as Computer Vision Engineer and Encurso as Web Development Intern
 - 🌱 I’m currently learning Node.js, Express.js, Computer Vision and Machine Learning
 - 👯 I’m looking to collaborate on IoT, Robotics and ML projects
 - 💬 Ask me about C/C++ and Python
