@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Guilherme Poleto, 22 yo, Toledo, PR, Brazil
+I'm Guilherme Poleto, 23 yo, Toledo, PR, Brazil
  
 - 🖥️ Computer Enginering student at UTFPR - Toledo
 - 🤖 Robotics enthusiast
