@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Guilherme Poleto, 23 yo, Toledo, PR, Brazil
+I'm Guilherme Poleto, 24 yo, Toledo, PR, Brazil
  
 - 🖥️ Computer Enginering student at UTFPR - Toledo
 - 🤖 Robotics enthusiast
@@ -10,8 +10,9 @@ I'm Guilherme Poleto, 23 yo, Toledo, PR, Brazil
   - Dedo no C++ && gritaria (2019)
   - Antes tarde do que TLE  (2020)
   - Antes tarde do que TLE  (2021)
-- 🔭 I’m currently working at [Atos](https://atos.net/pt-br/brasil-atos) as a Computer Vision Engineer
-- 🌱 I’m currently learning Spark, Kafka Cassandra
+  - Quem não tem BIT caça com Seg (2022)
+- 🔭 I’m currently working at [Eviden](https://eviden.com/) as a Computer Vision Engineer
+- 🌱 I’m currently learning realtime data processing, embedded systems and computer graphics.
 - 👯 I’m looking to collaborate on IoT, Robotics and ML projects
 - 💬 Ask me about C/C++ and Python
 - 📫 How to reach me:
